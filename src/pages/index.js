@@ -8,7 +8,7 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Introduction: Barbie 2023 Movie",
+    text: "Introduction: Cobweb 2023 Movie",
     url: "https://watchfullcobweb2023movieyourul.gatsbyjs.io",
     description:
       "Welcome to the thrilling world of Cobweb 2023,the highly anticipated movie of 2023 that promises to take audiences on a roller-coaster ride of emotions, suspense, and intrigue. In this article, we delve into the details of this cinematic masterpiece, exploring the plot, cast, behind-the-scenes insights, critical reception, and more. So buckle up, and let's dive into the enthralling universe of Cobweb 2023.Set in a quaint town nestled between the misty mountains, Cobweb 2023revolves around the mysterious disappearance of five teenagers on a seemingly ordinary summer night. As their families and friends embark on a desperate search for answers, they uncover a web of dark secrets lurking beneath the idyllic facade of their peaceful town. The movie artfully weaves together elements of mystery, horror, and drama, keeping the audience on the edge of their seats throughout. As the suspense builds, unexpected twists and turns emerge, revealing the hidden connections between the characters and the shocking truth behind the disappearances.",
