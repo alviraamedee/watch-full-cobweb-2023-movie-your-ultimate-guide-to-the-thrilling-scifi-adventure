@@ -8,42 +8,39 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "Introduction: Cobweb 2023 ",
+    url: "https://watchfullcobweb2023movieyourul.gatsbyjs.io",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "Welcome to the thrilling world of Cobweb 2023 the highly anticipated movie of 2023 that promises to take audiences on a roller-coaster ride of emotions, suspense, and intrigue. In this article, we delve into the details of this cinematic masterpiece, exploring the plot, cast, behind-the-scenes insights, critical reception, and more. So buckle up, and let's dive into the enthralling universe of Cobweb 2023.",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: Cobweb 2023 2023: Plot Summary",
+    url: "https://watchfullcobweb2023movieyourul.gatsbyjs.io",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "Set in a quaint town nestled between the misty mountains, 2023 revolves around the mysterious disappearance of five teenagers on a seemingly ordinary summer night. As their families and friends embark on a desperate search for answers, they uncover a web of dark secrets lurking beneath the idyllic facade of their peaceful town. The movie artfully weaves together elements of mystery, horror, and drama, keeping the audience on the edge of their seats throughout. As the suspense builds, unexpected twists and turns emerge, revealing the hidden connections between the characters and the shocking truth behind the disappearances.",
   },
   {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
+    text: Cobweb 2023 2023: Cast and Characters",
+    url: "https://watchfullcobweb2023movieyourul.gatsbyjs.io",
     description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
+      Cobweb 2023 2023 boasts an ensemble cast of talented actors who bring the characters to life with their exceptional performances. At the heart of the story is Emma Watson, portraying the resilient and determined sister of one of the missing teenagers. Her emotional journey as she unravels the town's secrets is a captivating highlight of the film. Joining her is the charismatic John Krasinski, who plays the enigmatic town sheriff, carrying his own burden of guilt and remorse. The chemistry between Watson and Krasinski on screen adds an extra layer of depth to the narrative. The supporting cast, including seasoned actors like Angela Bassett and rising stars such as Noah Jupe and Isabela Moner, deliver powerful portrayals, making the fictional town's inhabitants feel real and relatable.",
   },
   {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
+    text: Cobweb 2023 2023: Behind the Scenes",
+    url: "https://watchfullcobweb2023movieyourul.gatsbyjs.io",
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "Directed by the visionary filmmaker Christopher Nolan, Cobweb 2023 benefits from his signature style of storytelling. Nolan's ability to create immersive worlds, coupled with his mastery of non-linear narratives, elevates 2023 from a conventional mystery to an unforgettable cinematic experience. The screenplay, penned by the talented screenwriter Jennifer Lawrence, expertly navigates the complexities of the plot, leaving no loose ends and offering a satisfying conclusion. The hauntingly beautiful cinematography by Roger Deakins captures the essence of the small town, adding to the film's overall atmospheric allure.",
   },
 ]
 
 const samplePageLinks = [
   {
-    text: "Page 2",
-    url: "page-2",
-    badge: false,
+    text: Cobweb 2023 2023 Movie",
+    url: "https://aius.site/movie/709631/cobweb.html",
     description:
-      "A simple example of linking to another page within a Gatsby site",
+      "Cobweb 2023 the highly anticipated movie of 2023 that promises to take audiences on a roller-coaster ride of emotions, suspense, and intrigue. In this article, we delve into the details of this cinematic masterpiece, exploring the plot, cast, behind-the-scenes insights, critical reception, and more. So buckle up, and let's dive into the enthralling universe of 2023,
   },
-  { text: "TypeScript", url: "using-typescript" },
-  { text: "Server Side Rendering", url: "using-ssr" },
-  { text: "Deferred Static Generation", url: "using-dsg" },
+  
 ]
 
 const moreLinks = [
@@ -73,27 +70,26 @@ const IndexPage = () => (
   <Layout>
     <div className={styles.textCenter}>
       <StaticImage
-        src="../images/example.png"
+        src="../images/cobweb2023.jpg"
         loading="eager"
-        width={64}
+        width={720}
         quality={95}
         formats={["auto", "webp", "avif"]}
         alt=""
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Watch Full <b>Cobweb 2023 Movie</b> - Your Ultimate Guide to the Thrilling Sci-Fi Adventure
       </h1>
       <p className={styles.intro}>
-        <b>Example pages:</b>{" "}
-        {samplePageLinks.map((link, i) => (
+        <b>Visit Link To Watch Full Movie: 👉</b> {" "}
+       {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>
             {i !== samplePageLinks.length - 1 && <> · </>}
           </React.Fragment>
         ))}
-        <br />
-        Edit <code>src/pages/index.js</code> to update this page.
+        
       </p>
     </div>
     <ul className={styles.list}>
