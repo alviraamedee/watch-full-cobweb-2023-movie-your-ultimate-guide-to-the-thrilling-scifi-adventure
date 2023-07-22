@@ -10,7 +10,7 @@
 module.exports = {
   siteMetadata: {
     title: `Watch Full {[Cobweb - 2023]} Movie - Your Ultimate Guide to the Thrilling Sci-Fi Adventure`,
-    description: `Welcome to the thrilling world of "Cobweb," the highly anticipated movie of 2023 that promises to take audiences on a roller-coaster ride of emotions, suspense, and intrigue. In this article, we delve into the details of this cinematic masterpiece, exploring the plot, cast, behind-the-scenes insights, critical reception, and more. So buckle up, and let's dive into the enthralling universe of "Cobweb.`,
+    description: `Welcome to the thrilling world of Cobweb 2023, the highly anticipated movie of 2023 that promises to take audiences on a roller-coaster ride of emotions, suspense, and intrigue. In this article, we delve into the details of this cinematic masterpiece, exploring the plot, cast, behind-the-scenes insights, critical reception, and more. So buckle up, and let's dive into the enthralling universe of "Cobweb.`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
